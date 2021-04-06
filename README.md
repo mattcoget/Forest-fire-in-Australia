@@ -12,15 +12,15 @@ The project was first based on the datas collected by MODIS (Moderate Resolution
 Two datasets were structured in the same way : 
   - latitude
   - longitude
-  - brightness: Channel 21 brightness temperature of the fire pixel measured in Kelvin.
-  - scan: Scan pixel size
-  - track: Track pixel size
-  - acq_date Date of MODIS acquisition.
-  - acq_time: Time of acquisition of the satellite (in UTC).
-  - satellite: A = Aqua and T = Terra.
-  - instrument: Constant value for MODIS.
+  - brightness: *Channel 21 brightness temperature of the fire pixel measured in Kelvin.*
+  - scan: *Scan pixel size.*
+  - track: *Track pixel size.*
+  - acq_date: *Date of MODIS acquisition.*
+  - acq_time: *Time of acquisition of the satellite (in UTC).*
+  - satellite: *A = Aqua and T = Terra.*
+  - instrument: *Constant value for MODIS.*
   - confidence
   - version of the instrument
-  - bright_t31: Channel 31 brightness temperature of the fire pixel measured in Kelvin.
-  - frp: Fire Radiative Power in MW (megawatts).
-  - daynight: D = Daytime, N = Nighttime
+  - bright_t31: *Channel 31 brightness temperature of the fire pixel measured in Kelvin.*
+  - frp: *Fire Radiative Power in MW (megawatts).*
+  - daynight: *D = Daytime, N = Nighttime.*
